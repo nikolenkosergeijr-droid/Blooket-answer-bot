@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Quiz Helper",
+  "version": "1.0",
+  "description": "A practice quiz helper for quizzes you create yourself.",
+  "permissions": [
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
